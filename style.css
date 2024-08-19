@@ -22,10 +22,11 @@ img{
 }
 
 p{
-    color: rgb(208, 203, 196);
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     font-size:large;
+    
 }
 h2{
     margin: 10px;
